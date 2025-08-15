@@ -1,6 +1,6 @@
 export class Personagem{
     nome: string = "";
-    class: string = "";
+    classe: string = "";
     raca: string = "";
     nivel: number = 0;
     arma: string = "";
